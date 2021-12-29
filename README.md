@@ -5,6 +5,6 @@ This repository contains the powerpoint file made for the oral presentation of t
 
 Project overview : 
 
-Starting from 120 breeds of dogs (not all existing breeds), Train and construct one or several models, and then a website, which take as an entry a picture of dog (or a picture of something else...), and as an output, presents the most likely breeds identified among the initial 120 breeds, with the % of likelihood.
+Starting from 120 breeds of dogs (not all existing breeds), Train and construct one or several models, and then a website, which take as an entry a picture of a dog (or a picture of something else...), and as an output, presents the most likely breeds identified among the initial 120 breeds, with the % of likelihood.
 
 Link to website : https://oc-p6-dog-breeds-classifier.herokuapp.com/
