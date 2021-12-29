@@ -1,7 +1,7 @@
 # Image_Classification _ OPENCLASSROOM MACHINE LEARNING COURSE _ Project 6
 Image classification of dog breeds
 
-This repository presents the powerpoint file made for the oral presentation of this project. I'm not allowed to publish the code, for possible 'cheating/copying' problems, as it is the same project for every student following OpenClassrooms ML Course.
+This repository contains the powerpoint file made for the oral presentation of this project. I'm not allowed to publish the code, for possible 'cheating/copying' problems, as it is the same project for every student following OpenClassrooms ML Course.
 
 Project overview : 
 
